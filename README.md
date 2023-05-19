@@ -13,7 +13,7 @@ This Python-based CSV importer is designed to establish a connection with a SQL 
    cd MS-SQL-CSVImporter
 3) Ensure you have Python 3.10 installed on your system. You can download it from the official Python website.
 4) Install the required dependencies by running: pip install -r requirements.txt
-5) Run the project using the following command: python main.py
+5) Run the project using the following command: python testing.py
 6) The GUI interface will launch, allowing you to interact with your project.
 
 # Usage
