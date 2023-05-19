@@ -1,11 +1,11 @@
 # MS-SQL-CSV-Importer
 This Python-based CSV importer is designed to establish a connection with a SQL Server database, leveraging Windows Authentication for secure access. The code facilitates seamless importing of CSV files, enabling users to effortlessly create tables and efficiently insert data into the database. Additionally, the code encompasses robust file management capabilities and an integrated search function. The solution is built with Python and incorporates the Tkinter framework.
 # Features
-**Easy Installation**: The CSV Importer can be quickly installed on your local machine or server using simple installation instructions.
-**Intuitive Graphical User Interface:** The tool provides a graphical user interface that allows you to seamlessly import CSV files into SQL Server without any complex configurations.
-**Efficient Bulk Insertion:** Leveraging SQL Server's bulk insert functionality, the CSV Importer efficiently inserts data from CSV files into SQL Server tables, optimizing the import process.
-**Logging and Error Handling:** Comprehensive logging and error handling mechanisms are in place to provide detailed information about the import process and handle any encountered issues effectively.
-**Data Validation:** The tool performs data validation during the import process, ensuring the integrity and accuracy of the data being imported.
+1) **Easy Installation**: The CSV Importer can be quickly installed on your local machine or server using simple installation instructions.
+2) **Intuitive Graphical User Interface:** The tool provides a graphical user interface that allows you to seamlessly import CSV files into SQL Server without any complex configurations.
+3) **Efficient Bulk Insertion:** Leveraging SQL Server's bulk insert functionality, the CSV Importer efficiently inserts data from CSV files into SQL Server tables, optimizing the import process.
+4) **Logging and Error Handling:** Comprehensive logging and error handling mechanisms are in place to provide detailed information about the import process and handle any encountered issues effectively.
+5) **Data Validation:** The tool performs data validation during the import process, ensuring the integrity and accuracy of the data being imported.
 # Installation
 1) Clone the repository to your local machine using the following command:
    git clone https://github.com/AlishbaKK/MS-SQL-CSVImporter.git 
