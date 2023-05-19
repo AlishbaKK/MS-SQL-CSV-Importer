@@ -12,9 +12,17 @@ This Python-based CSV importer is designed to establish a connection with a SQL 
 2) Navigate to the project directory:
    cd MS-SQL-CSVImporter
 3) Ensure you have Python 3.10 installed on your system. You can download it from the official Python website.
-4) Install the required dependencies by running: pip install -r requirements.txt
-5) Run the project using the following command: python testing.py
-6) The GUI interface will launch, allowing you to interact with your project.
+4) Install the MSSQL ODBC Driver on your system. This is necessary for connecting to the MSSQL database. You can download the driver from the official 
+   Microsoft website.
+5) Download SQL Server Express
+6) Go to the Microsoft SQL Server Management Studio download page: https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+7) Select the latest version of SSMS that is compatible with your system.
+8) Choose the language and download the installation file.
+9) Run the installation file and follow the installation wizard to install SSMS on your system.
+10) Once the installation is complete, you can launch SSMS and connect to your SQL Server instance by providing the server name and authentication credentials.
+11) Install the required dependencies by running: pip install -r requirements.txt
+12) Run the project using the following command: python testing.py
+13) The GUI interface will launch, allowing you to interact with your project.
 
 # Usage
 1) Ensure you have followed the installation guide and have the project set up on your system.
