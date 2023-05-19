@@ -7,7 +7,15 @@ This Python-based CSV importer is designed to establish a connection with a SQL 
 **Logging and Error Handling:** Comprehensive logging and error handling mechanisms are in place to provide detailed information about the import process and handle any encountered issues effectively.
 **Data Validation:** The tool performs data validation during the import process, ensuring the integrity and accuracy of the data being imported.
 # Installation
-Please refer to the Installation Guide for detailed instructions on how to install and set up the CSV Importer for SQL Server.
+1) Clone the repository to your local machine using the following command:
+   git clone https://github.com/AlishbaKK/MS-SQL-CSVImporter.git 
+2) Navigate to the project directory:
+   cd MS-SQL-CSVImporter
+3) Ensure you have Python 3.10 installed on your system. You can download it from the official Python website.
+4) Install the required dependencies by running: pip install -r requirements.txt
+5) Run the project using the following command: python main.py
+6) The GUI interface will launch, allowing you to interact with your project.
+
 # Usage
 1) Ensure you have followed the installation guide and have the project set up on your system.
 2) Launch the project by running the following command in your terminal:
